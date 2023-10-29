@@ -1,3 +1,6 @@
 [submodule "testdb"]
 	path = testdb
 	url = https://github.com/KDI-2023/testdb.git
+[submodule "db"]
+	path = db
+	url = https://github.com/KDI-2023/db.git
